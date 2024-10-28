@@ -6,16 +6,21 @@ const Hero = () => {
   return (
     <div className='hero'>
         <img src={profile_img} alt="profile image" />
-        <h1><span>"Hi, I'm Tez Aryan,</span></h1>
-        <h1> a passionate frontend developer."</h1> 
-        <p> I’m a passionate frontend developer with a strong foundation in UI/UX designing. Currently pursuing my B.Tech degree at SRM University, I’m deeply committed to delivering high-quality projects with full dedication and focus. I pride myself on my ability to stay patient and persistent . I thrive in environments where I can bring ideas to life, continuously learning and growing as a developer."</p>
-        <div className='hero-action'>
+        <h1><span>"Hi, I'm Piyush kumar,</span></h1>
+        <h1> a passionate software developer."</h1> 
+        <p> I am Piyush Kumar pursuing my B. Tech Degree from S.R.M. University. I am
+ fascinated by technology and the transformative impact it has on our world. I
+ have developed web applications with HTML,CSS and Java Script, and
+ explored the realms of different programming language(C ,C++ , Java ,Python).
+ While my skill set is solid ,my real strength lies in my relentless drive to learn
+ and adapt."</p>
+        <div className='hero-action'> 
             <div className="hero-connect">Connect with me</div>
-            <div className="hero-resume"><a href="https://drive.google.com/file/d/1X9Fr7WWIQsi4Dg0Knj7z7xyG2T5fLsDK/view?usp=drive_link" target="_blank" 
+            <div className="hero-resume"><a href="https://drive.google.com/file/d/1P7batkuIndZLbuVNs7P6W6s_T8zr-1R1/view?usp=drive_link" target="_blank" 
     rel="noopener noreferrer" >My resume</a></div>
         </div>
     </div>
   )
 }
 
-export default Hero         
+export default Hero

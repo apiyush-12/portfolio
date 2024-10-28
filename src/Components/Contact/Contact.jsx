@@ -15,12 +15,12 @@ const Contact = () => {
         <div className='contact-content'>
         <div className="phone-no">
         <FontAwesomeIcon icon={faPhone} style={{ fontSize: '24px', color: 'white' }} />
-            <p> +91-8116030786 </p>
+            <p> +91-72095 87201 </p>
         </div>
 
         <div className="email-id">
         <FontAwesomeIcon icon={faAt} style={{ fontSize: '24px', color: 'white' }} />
-            <p> tezaryan2004@gmail.com </p>
+            <p> piyushkumar2000@gmail.com </p>
             </div>
             </div>
     </div>
