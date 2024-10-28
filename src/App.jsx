@@ -6,7 +6,7 @@ import MyWork from './Components/MyWork/MyWork'
 import Contact from './Components/Contact/Co ntact'
 
 
- slgmls
+ 
 
 const App = () => {
   return (
