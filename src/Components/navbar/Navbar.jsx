@@ -2,7 +2,7 @@ import React from 'react';
 import './Navbar.css';
 import logo from '../../assets/Logo1.png';
 
-const Navbar = () => {  
+function Navbar() {
   return (
     <div className='navbar'>
       <img src={logo} alt="logo" />
@@ -10,13 +10,13 @@ const Navbar = () => {
         <li>Home</li>
         <li>Skills</li>
         <li>Latest Work</li>
-        
+
         <li>Contact</li>
-       
+
       </ul>
       <div className="nav-connect">Connect With Me</div>
     </div>
-  )
+  );
 }
 
 export default Navbar; 
